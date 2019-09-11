@@ -1,0 +1,40 @@
+.btn-play-wrap .btn-play {
+  width: 70px;
+  height: 70px;
+  line-height: 50px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+}
+
+.btn-play-wrap .btn-play span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 40px;
+  -webkit-transform: translate(-30%, -50%);
+  -ms-transform: translate(-30%, -50%);
+  transform: translate(-30%, -50%);
+  color: #fff;
+}
+
+.section-cover {
+  background-size: cover;
+  position: relative;
+  background-position: top left;
+}
+
+.section-cover, .section-cover .intro {
+  height: 500px;
+}
+
+.section-cover p {
+  color: #fff;
+}
+
+.section-cover h2 {
+  color: #fff;
+  font-size: 50px;
+}

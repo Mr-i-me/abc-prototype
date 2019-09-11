@@ -1,0 +1,9 @@
+navbar
+intro(Hero)               ok
+  banner                  ok
+  drop down button        ok
+stay with us              ok
+about
+video
+gallery
+contact
